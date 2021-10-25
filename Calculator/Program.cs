@@ -8,7 +8,7 @@ namespace Animal
         {
             Perro fido = new Perro();
             Console.WriteLine(fido.Ladrar());
-            return 1;
+            return 0;
         }
     }
 }
